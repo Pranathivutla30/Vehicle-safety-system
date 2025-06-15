@@ -21,7 +21,6 @@ Key Features:
 
 | File | Description |
 |------|-------------|
-| [`Published paper.pdf`](./Published%20paper.pdf) | IEEE-style published research paper |
 | [`final ppt.pptx`](./final%20ppt.pptx) | Final project presentation |
 | `sp.c` | Embedded C code for UART communication (optional microcontroller support) |
 | `README.md` | This file |
