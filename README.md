@@ -103,7 +103,7 @@ Key Features:
 
 ##  Authors
 
-**Lakshmi Pranathi Vutla**, P. Chandupriya, M. Nikhitha, G. Vijay  
+**Lakshmi Pranathi Vutla**,  
 Dept. of Computer Science and Engineering (IoT)  
 Visvodaya Engineering College, Kavali  
  [pranathiv23@gmail.com](mailto:pranathiv23@gmail.com)
